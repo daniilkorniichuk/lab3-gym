@@ -21,4 +21,3 @@ data class Visitor(
     @ColumnInfo(name = "Email")
     val email: String
 )
-
